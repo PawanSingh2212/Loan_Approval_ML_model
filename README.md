@@ -7,16 +7,16 @@ A machine learning project for predicting loan approval based on applicant detai
 
 # The dataset contains 
 
-1- Loan_ID: Unique identifier for each loan application 
-2- Gender: Gender of the applicant 
-3- Married: Marital status of the applicant 
-4- Dependents: Number of dependents.
-5- Education: Education level of the applicant 
-6- Self_Employed: Whether the applicant is self-employed 
-7- ApplicantIncome: Income of the applicant 
-8- CoapplicantIncome: Income of the co-applicant 
-9- LoanAmount: Loan amount requested 
-10- Loan_Amount_Term: Term of the loan in months 
-11- Credit_History: Credit history score 
-12- Property_Area: The area of property 
-13- Loan_Status: Whether the loan was approved 
+- 1- Loan_ID: Unique identifier for each loan application 
+- 2- Gender: Gender of the applicant 
+- 3- Married: Marital status of the applicant 
+- 4- Dependents: Number of dependents.
+- 5- Education: Education level of the applicant 
+- 6- Self_Employed: Whether the applicant is self-employed 
+- 7- ApplicantIncome: Income of the applicant 
+- 8- CoapplicantIncome: Income of the co-applicant 
+- 9- LoanAmount: Loan amount requested 
+- 10- Loan_Amount_Term: Term of the loan in months 
+- 11- Credit_History: Credit history score 
+- 12- Property_Area: The area of property 
+- 13- Loan_Status: Whether the loan was approved 
